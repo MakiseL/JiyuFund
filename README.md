@@ -17,8 +17,8 @@ ___
 | 网站编写 | 2022.11.19 -> 2023.1.6 | 编写代码与设计网页 |
 ___
 ## 系统功能模块
-![图片(D:/github/pic1.png)  
-![图片(D:/github/pic2.png)  
+![图片](D:/github/pic1.png)  
+![图片](D:/github/pic2.png)  
 ___
 
 
